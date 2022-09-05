@@ -32,7 +32,7 @@ h6 {
 body {
     height: 100%;
     line-height: 1;
-    font-size: 14px;
+    font-size: 16px;
     color: rgba(37, 43, 66, 1);
     font-family: 'Poppins';
     font-weight: 500;
@@ -76,9 +76,7 @@ body {
     position: relative;
     margin: 10px 5px;
 }
-.header_logo{}
 
-.logo_image{}
 .logo_image_{
     width: 100%;
     height: 100%;
@@ -112,9 +110,7 @@ body {
 .mainblock {
     position: relative;
 }
-img {
     
-}
 
 .mainblock_image {
     margin-top: -570px;
@@ -140,14 +136,14 @@ img {
     z-index: 10;
 }
 .lite_title{
-    font-size: 21px;
+    font-size: 25px;
     font-weight: 100;
     margin: 121px 0px 22px 0px;
     color: #fff;
 }
 @media (max-width: 380px) {
     .lite_title {
-        font-size: 16px;
+        font-size: 18px;
     }
 }
 .main_title{
@@ -172,13 +168,12 @@ img {
     }
 }
 .main_text {
-    font-size: 16px;
+    font-size: 21px;
     font-weight: 400;
     color: #fff;
     margin: 24px 0px 45px 0px;
     line-height: 108%;
 }
-.main_getintouch{}
 .main_getintouch_link{
     color: inherit;
     color: rgba(255, 215, 35, 1);
@@ -203,7 +198,6 @@ img {
         flex-wrap: wrap;
     }
 }
-.clients_image{}
 @media (max-width: 1070px) {
     .clients_image {
         margin: 10px;
@@ -235,7 +229,7 @@ img {
 }
 .strategy_litle_title{
     font-weight: 400;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 150%;
 }
 .strategy_title{
@@ -247,18 +241,15 @@ img {
 }
 .strategy_text{
     font-weight: 400;
-    font-size: 16px;
+    font-size: 21px;
     color: rgba(33, 56, 66, 0.6);
     line-height: 162.5%;
     margin: 0px 0px 42px 0px;
 }
-.strategy_more{
-
-}
 .strategy_more_info{
     color: inherit;
     font-weight: 700;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 150%;
     color: rgba(212, 214, 212, 1);
 
@@ -304,7 +295,6 @@ img {
 .strategy_response_info{
     padding: 120px 40px 0px 40px;
 }
-.user_image{}
 .user_text{
     padding: 30px 0px 0px 0px;
 }
@@ -334,7 +324,6 @@ img {
 }
 
 /*----------------AWESOME-PROJECT----------------------------------------------------------------------------------------------------------------*/
-.awesome_project_page{}
 .awasome_project_body{
     display: flex;
 }
@@ -378,7 +367,7 @@ img {
 .awesome_project_text{
     margin: 301px 0px 110px 127px;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 21px;
     line-height: 162%;
     color: rgba(33, 56, 66, 0.6);
 }
@@ -394,7 +383,7 @@ img {
 }
 /*--------TITLES--------------------------------------------------------------------------------------*/
 .title{
-    font-size: 36px;
+    font-size: 42px;
     font-weight: 700;
     line-height: 133.3333%;
     margin: 80px 0px 24px 0px;
@@ -402,13 +391,13 @@ img {
 }
 @media (max-width: 390px) {
     .title {
-        font-size: 32px;
+        font-size: 36px;
     }
 }
 .text{
     margin: 0px 0px 90px 0px;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 162.5%;
     color: rgba(33, 56, 66, 0.6);
 }
@@ -421,7 +410,7 @@ img {
     color: inherit;
     text-decoration: underline;
     color: rgba(212, 214, 212, 1);
-    font-size: 16px;
+    font-size: 18px;
     line-height: 125%;
 }
 /*------WALL-NEW------------------------------------------------------------------------------------------*/
@@ -435,8 +424,6 @@ img {
         align-items: center;
     }
 }
-.wall_new_item{}
-.wall_new_images{}
 .wall_new_image{
     margin-left: -160px;
     z-index: 1;
@@ -470,14 +457,10 @@ img {
         margin: 40px 0px;
     }
 }
-.wall_new_title{}
-.wall_new_text{}
-.wall_new_more{}
-.wall_new_more_info{}
 
 /*--------------RESPONSE------------------------------------------------------------------------------*/
 .response_container{
-    max-width: 460px;
+    max-width: 520px;
 
     z-index: 3;
     background-color: #fff;
@@ -494,9 +477,8 @@ img {
     box-shadow: 50px 50px 100px 0px rgba(0, 0, 0, 0.1459);
 
 }
-.response_item{}
 .response_text{
-    font-size: 16px;
+    font-size: 21px;
     font-weight: 400;
     font-style: italic;
     line-height: 162.5%;
@@ -504,7 +486,7 @@ img {
 }
 @media (max-width: 320px) {
     .response_text {
-        font-size: 14px;
+        font-size: 16px;
     }
 }
 .response_user{
@@ -521,14 +503,14 @@ img {
 }
 
 .response_user_title{
-    font-size: 16px;
+    font-size: 21px;
     font-weight: 700;
     color: rgba(77, 83, 60, 1);
     line-height: 150%;
 }
 .response_user_info{
     font-weight: 400;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 150%;
     color: rgba(21, 41, 52, 1);
 }
@@ -610,22 +592,22 @@ img {
 
 /*-------LINA------------------------------------------------------------------*/
 .lina_response_page {
-    margin: -200px 40px 40px 680px;
+    margin: -100px 40px 40px 680px;
 }
 
 @media (max-width: 1100px) {
     .lina_response_page {
-        margin: -140px 20px 40px 530px;
+        margin: -80px 20px 40px 530px;
     }
 }
 @media (max-width: 1000px) {
     .lina_response_page {
-        margin: -140px 20px 40px 420px;
+        margin: -80px 20px 40px 420px;
     }
 }
 @media (max-width: 910px) {
     .lina_response_page {
-        margin: -80px 10px 40px 20px;
+        margin: -60px 10px 40px 20px;
     }
 }
 @media (max-width: 550px) {
@@ -714,13 +696,9 @@ img {
         margin-top: 150px;
     }
 }
-.diation_container {
-}
-._container {
-}
 .diation_title {
     font-weight: 700;
-    font-size: 36px;
+    font-size: 40px;
     color: rgba(77, 83, 60, 1);
     line-height: 127.77777%;
     margin-bottom: 60px;
@@ -749,14 +727,14 @@ img {
     }
 }
 .diation_menu_title {
-    font-size: 24px;
+    font-size: 28px;
     font-weight: 500;
     line-height: 141.66667%;
     color: rgba(77, 83, 60, 1);
     margin: 27px 42px 20px 42px;
 }
 .diation_menu_text {
-    font-size: 14px;
+    font-size: 21px;
     font-weight: 400;
     color: rgba(33, 56, 66, 0.6);
     margin: 0px 42px 55px 42px;
@@ -794,8 +772,6 @@ img {
     .lets_page {
         padding: 20px;
     }
-}
-.lets_body {
 }
 .lets_title {
     margin-bottom: 50px;
@@ -913,8 +889,7 @@ img {
         display: none;
     }
 }
-.footer_service_column_last {
-}
+
 .service_menu_last{
     line-height: 162.5%;
     margin-bottom: 23px;
@@ -950,8 +925,7 @@ img {
         flex-wrap: wrap;
     }
 }
-.footer_logo {
-}
+
 .footer_made_by {
     margin: 10px;
     color: #fff;
